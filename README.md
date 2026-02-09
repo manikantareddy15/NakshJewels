@@ -1,10 +1,17 @@
-<----------------------run frontend ---------------->
+## Run Frontend
+
 cd frontend
 npm install
 npm run dev
-<--------------------------run backend----------------->
+
+
+## Run Backend
+
 cd backend
 npm install
 nodemon server.js
-<-------------------------docker run-------------------->
-docker composer
+
+
+## Docker Run
+
+docker-compose up
